@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/deribit/twitter_scanner/twitter.py", line 2, in <module>
+    from requests_oauthlib import OAuth1Session
+ModuleNotFoundError: No module named 'requests_oauthlib'
+Traceback (most recent call last):
+  File "/home/deribit/twitter_scanner/twitter.py", line 2, in <module>
+    from requests_oauthlib import OAuth1Session
+ModuleNotFoundError: No module named 'requests_oauthlib'
+Traceback (most recent call last):
+  File "/home/deribit/twitter_scanner/twitter.py", line 2, in <module>
+    from requests_oauthlib import OAuth1Session
+ModuleNotFoundError: No module named 'requests_oauthlib'
