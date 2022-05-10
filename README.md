@@ -1,4 +1,4 @@
-# twitter_notification_bot
+# twitter_scanner
 Twitter bot tracking multiple twitter accounts and sending emails only when the tweets contain some specific string
 
 
